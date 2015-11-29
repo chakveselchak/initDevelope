@@ -1,0 +1,13 @@
+{
+  "author": "Andrey Kuznetsov",
+  "name": "development-package",
+  "description": "template for web development",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-uglify": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
